@@ -1,0 +1,54 @@
+body {
+    background: #4fcedf;
+}
+
+.blocks_pokemons {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.pokemon_ditto {
+    background: #793f94;
+    border: black solid 1px;
+    border-radius: 10px ;
+    width: 25%;
+    
+}
+
+.pokemon_ditto img {
+position: relative;
+left: 15%;
+    
+}
+
+.pokemon_ditto p  {
+    color: rgb(243, 119, 119);
+    padding: 1%;
+    text-align: center;
+    
+}
+
+/* pokemon_bulbasaur */
+
+
+
+.pokemon_bulbasaur {
+    background: #793f94;
+    border: black solid 1px;
+    border-radius: 10px ;
+    width: 25%;
+    
+}
+.pokemon_bulbasaur img {
+position: relative;
+left: 15%;
+    
+}
+
+.pokemon_bulbasaur p  {
+    color: rgb(243, 119, 119);
+    padding: 1%;
+    text-align: center;
+    
+}
